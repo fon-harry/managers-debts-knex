@@ -1,0 +1,2386 @@
+{
+    "users": [],
+    "managersDebts": [
+        {
+            "id": "1",
+            "name": "Manager1",
+            "clients": [
+                {
+                    "id": 1,
+                    "name": "Client1",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "825.98"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "7613.17"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Client2",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "4069.77"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "1263.35"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Client3",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "7468.0"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "339.15"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "Client4",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "191.92"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "2299.41"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "name": "Client5",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "2655.31"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "2224.42"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "name": "Client6",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "3937.74"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "2653.10"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "name": "Client7",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "6860.30"
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "name": "Client8",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "8394.24"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "8045.33"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Contract3",
+                            "debt": "3432.36"
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "name": "Client9",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "25.7"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "9713.57"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Contract3",
+                            "debt": "845.38"
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "name": "Client10",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "6497.28"
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "name": "Client11",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "9621.79"
+                        }
+                    ]
+                },
+                {
+                    "id": 12,
+                    "name": "Client12",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "923.72"
+                        }
+                    ]
+                },
+                {
+                    "id": 13,
+                    "name": "Client13",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "5584.33"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Manager2",
+            "clients": [
+                {
+                    "id": 1,
+                    "name": "Client1",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "7163.50"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Client2",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "3232.66"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "6679.31"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Contract3",
+                            "debt": "4438.89"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Client3",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "8714.94"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "9730.54"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Contract3",
+                            "debt": "4173.34"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "Client4",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "6345.45"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "9967.99"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "name": "Client5",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "7322.2"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "992.27"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "name": "Client6",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "207.50"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "2587.57"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "name": "Client7",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "1322.61"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "8254.92"
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "name": "Client8",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "8564.42"
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "name": "Client9",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "2585.75"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "4783.86"
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "name": "Client10",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "6723.0"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "854.41"
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "name": "Client11",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "5163.90"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "8563.95"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Contract3",
+                            "debt": "1225.88"
+                        }
+                    ]
+                },
+                {
+                    "id": 12,
+                    "name": "Client12",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "7375.62"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "2581.84"
+                        }
+                    ]
+                },
+                {
+                    "id": 13,
+                    "name": "Client13",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "2476.85"
+                        }
+                    ]
+                },
+                {
+                    "id": 14,
+                    "name": "Client14",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "7169.50"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "2303.78"
+                        }
+                    ]
+                },
+                {
+                    "id": 15,
+                    "name": "Client15",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "6137.16"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "name": "Manager3",
+            "clients": [
+                {
+                    "id": 1,
+                    "name": "Client1",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "4302.29"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "9384.38"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Client2",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "1953.36"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "519.30"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Contract3",
+                            "debt": "7653.18"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Client3",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "6367.62"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "356.69"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Contract3",
+                            "debt": "7933.63"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "Client4",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "9460.45"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "name": "Client5",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "1344.8"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "2495.19"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "name": "Client6",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "7332.3"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "9654.29"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "name": "Client7",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "8340.11"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "7597.56"
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "name": "Client8",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "5464.64"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "3229.17"
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "name": "Client9",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "2202.9"
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "name": "Client10",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "6278.75"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "4200.40"
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "name": "Client11",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "9881.71"
+                        }
+                    ]
+                },
+                {
+                    "id": 12,
+                    "name": "Client12",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "6832.1"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "6749.74"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Contract3",
+                            "debt": "1286.31"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "name": "Manager4",
+            "clients": [
+                {
+                    "id": 1,
+                    "name": "Client1",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "1179.45"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "1262.33"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Contract3",
+                            "debt": "2678.19"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Client2",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "5934.62"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Client3",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "5017.54"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "7982.22"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "Client4",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "3235.31"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "name": "Client5",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "223.58"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "6978.24"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "name": "Client6",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "2077.98"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "name": "Client7",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "1649.25"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "1630.80"
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "name": "Client8",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "7501.2"
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "name": "Client9",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "2182.81"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "5397.36"
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "name": "Client10",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "829.42"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "3767.28"
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "name": "Client11",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "4463.86"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "9304.43"
+                        }
+                    ]
+                },
+                {
+                    "id": 12,
+                    "name": "Client12",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "5242.51"
+                        }
+                    ]
+                },
+                {
+                    "id": 13,
+                    "name": "Client13",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "8429.68"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "8814.72"
+                        }
+                    ]
+                },
+                {
+                    "id": 14,
+                    "name": "Client14",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "4782.75"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "3403.59"
+                        }
+                    ]
+                },
+                {
+                    "id": 15,
+                    "name": "Client15",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "4994.23"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "9880.56"
+                        }
+                    ]
+                },
+                {
+                    "id": 16,
+                    "name": "Client16",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "840.99"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "9031.52"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "name": "Manager5",
+            "clients": [
+                {
+                    "id": 1,
+                    "name": "Client1",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "3729.44"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "1765.40"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Contract3",
+                            "debt": "4708.20"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Client2",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "4650.7"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Client3",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "8426.51"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "Client4",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "2172.64"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "1267.20"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "name": "Client5",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "1379.19"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "6693.73"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "name": "Client6",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "7180.83"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "name": "Client7",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "7874.34"
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "name": "Client8",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "5424.69"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "1091.93"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Contract3",
+                            "debt": "1690.18"
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "name": "Client9",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "842.65"
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "name": "Client10",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "2630.55"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "9554.81"
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "name": "Client11",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "3119.55"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "8168.6"
+                        }
+                    ]
+                },
+                {
+                    "id": 12,
+                    "name": "Client12",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "7770.3"
+                        }
+                    ]
+                },
+                {
+                    "id": 13,
+                    "name": "Client13",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "9411.92"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "6468.22"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Contract3",
+                            "debt": "5456.37"
+                        }
+                    ]
+                },
+                {
+                    "id": 14,
+                    "name": "Client14",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "9504.43"
+                        }
+                    ]
+                },
+                {
+                    "id": 15,
+                    "name": "Client15",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "8737.35"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "3934.32"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "name": "Manager6",
+            "clients": [
+                {
+                    "id": 1,
+                    "name": "Client1",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "4315.1"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "3347.79"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Client2",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "6554.84"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Client3",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "2879.3"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "Client4",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "2220.87"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "747.63"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "name": "Client5",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "2581.19"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "4005.43"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Contract3",
+                            "debt": "6518.76"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "name": "Client6",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "2955.76"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "6433.97"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "name": "Client7",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "7105.24"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "547.48"
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "name": "Client8",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "1862.8"
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "name": "Client9",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "8275.72"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "1415.74"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Contract3",
+                            "debt": "535.93"
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "name": "Client10",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "9583.13"
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "name": "Client11",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "762.62"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "97.18"
+                        }
+                    ]
+                },
+                {
+                    "id": 12,
+                    "name": "Client12",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "3181.35"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "4678.38"
+                        }
+                    ]
+                },
+                {
+                    "id": 13,
+                    "name": "Client13",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "674.25"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "5974.92"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Contract3",
+                            "debt": "7622.23"
+                        }
+                    ]
+                },
+                {
+                    "id": 14,
+                    "name": "Client14",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "356.11"
+                        }
+                    ]
+                },
+                {
+                    "id": 15,
+                    "name": "Client15",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "2175.60"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "6653.36"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Contract3",
+                            "debt": "3909.3"
+                        }
+                    ]
+                },
+                {
+                    "id": 16,
+                    "name": "Client16",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "6942.28"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "3725.0"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Contract3",
+                            "debt": "3675.2"
+                        }
+                    ]
+                },
+                {
+                    "id": 17,
+                    "name": "Client17",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "3335.74"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "5399.90"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Contract3",
+                            "debt": "4238.54"
+                        }
+                    ]
+                },
+                {
+                    "id": 18,
+                    "name": "Client18",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "6222.63"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "7",
+            "name": "Manager7",
+            "clients": [
+                {
+                    "id": 1,
+                    "name": "Client1",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "6739.13"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "3435.38"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Client2",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "3078.43"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "8074.43"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Contract3",
+                            "debt": "3631.90"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Client3",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "5246.17"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "2805.96"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "Client4",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "1485.91"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "1839.87"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Contract3",
+                            "debt": "7239.12"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "name": "Client5",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "2285.88"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "2777.68"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "name": "Client6",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "4527.99"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "3185.0"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "name": "Client7",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "4071.18"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "6715.89"
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "name": "Client8",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "2875.36"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "1911.6"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Contract3",
+                            "debt": "6816.93"
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "name": "Client9",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "5955.27"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "9908.68"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Contract3",
+                            "debt": "5410.46"
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "name": "Client10",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "2702.23"
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "name": "Client11",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "7327.35"
+                        }
+                    ]
+                },
+                {
+                    "id": 12,
+                    "name": "Client12",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "8797.36"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "9696.84"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Contract3",
+                            "debt": "6021.21"
+                        }
+                    ]
+                },
+                {
+                    "id": 13,
+                    "name": "Client13",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "9747.86"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "1077.60"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Contract3",
+                            "debt": "2612.21"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "8",
+            "name": "Manager8",
+            "clients": [
+                {
+                    "id": 1,
+                    "name": "Client1",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "917.2"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "4605.18"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Contract3",
+                            "debt": "6872.35"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Client2",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "9396.74"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "5852.45"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Client3",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "1570.50"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "Client4",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "6811.55"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "name": "Client5",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "53.49"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "name": "Client6",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "7517.1"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "4667.94"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Contract3",
+                            "debt": "2514.87"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "name": "Client7",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "5515.26"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "2046.44"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Contract3",
+                            "debt": "8113.91"
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "name": "Client8",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "5974.13"
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "name": "Client9",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "4564.86"
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "name": "Client10",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "9131.6"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "4344.0"
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "name": "Client11",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "5525.64"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "5833.96"
+                        }
+                    ]
+                },
+                {
+                    "id": 12,
+                    "name": "Client12",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "4326.11"
+                        }
+                    ]
+                },
+                {
+                    "id": 13,
+                    "name": "Client13",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "7944.99"
+                        }
+                    ]
+                },
+                {
+                    "id": 14,
+                    "name": "Client14",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "9576.80"
+                        }
+                    ]
+                },
+                {
+                    "id": 15,
+                    "name": "Client15",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "9942.46"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "7073.6"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Contract3",
+                            "debt": "6361.27"
+                        }
+                    ]
+                },
+                {
+                    "id": 16,
+                    "name": "Client16",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "7509.63"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "6397.33"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Contract3",
+                            "debt": "5420.88"
+                        }
+                    ]
+                },
+                {
+                    "id": 17,
+                    "name": "Client17",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "2137.90"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "1857.89"
+                        }
+                    ]
+                },
+                {
+                    "id": 18,
+                    "name": "Client18",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "595.95"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "9",
+            "name": "Manager9",
+            "clients": [
+                {
+                    "id": 1,
+                    "name": "Client1",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "990.13"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "7797.69"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Client2",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "8414.45"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "6856.16"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Contract3",
+                            "debt": "8641.93"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Client3",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "619.22"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "3649.59"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Contract3",
+                            "debt": "4884.79"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "Client4",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "2592.66"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "2430.63"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Contract3",
+                            "debt": "4809.19"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "name": "Client5",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "4119.22"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "name": "Client6",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "779.30"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "504.17"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "name": "Client7",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "1960.25"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "4350.67"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Contract3",
+                            "debt": "3278.11"
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "name": "Client8",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "2399.10"
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "name": "Client9",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "3353.12"
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "name": "Client10",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "4396.88"
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "name": "Client11",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "5538.41"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "8343.40"
+                        }
+                    ]
+                },
+                {
+                    "id": 12,
+                    "name": "Client12",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "2746.1"
+                        }
+                    ]
+                },
+                {
+                    "id": 13,
+                    "name": "Client13",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "8248.33"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "7731.16"
+                        }
+                    ]
+                },
+                {
+                    "id": 14,
+                    "name": "Client14",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "9285.9"
+                        }
+                    ]
+                },
+                {
+                    "id": 15,
+                    "name": "Client15",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "9430.92"
+                        }
+                    ]
+                },
+                {
+                    "id": 16,
+                    "name": "Client16",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "6841.3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "10",
+            "name": "Manager10",
+            "clients": [
+                {
+                    "id": 1,
+                    "name": "Client1",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "7919.19"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "4205.68"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Client2",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "9702.57"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "3019.16"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Client3",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "5630.7"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "7632.83"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "Client4",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "8381.45"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "4982.62"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "name": "Client5",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "8703.61"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "4926.40"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "name": "Client6",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "4763.40"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "name": "Client7",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "3352.89"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "8174.4"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Contract3",
+                            "debt": "1787.76"
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "name": "Client8",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "3704.19"
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "name": "Client9",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "2697.83"
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "name": "Client10",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "1181.44"
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "name": "Client11",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "1240.95"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "6920.32"
+                        }
+                    ]
+                },
+                {
+                    "id": 12,
+                    "name": "Client12",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "6728.32"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "3411.31"
+                        }
+                    ]
+                },
+                {
+                    "id": 13,
+                    "name": "Client13",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "2482.56"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "1551.35"
+                        }
+                    ]
+                },
+                {
+                    "id": 14,
+                    "name": "Client14",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "6180.4"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "1495.78"
+                        }
+                    ]
+                },
+                {
+                    "id": 15,
+                    "name": "Client15",
+                    "contracts": [
+                        {
+                            "id": 1,
+                            "name": "Contract1",
+                            "debt": "600.12"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Contract2",
+                            "debt": "7396.95"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
