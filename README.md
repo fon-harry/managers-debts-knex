@@ -1,4 +1,5 @@
 # managers-debts-knex
+
 npm install
 
 edit knexfile.js for yours credentials
@@ -7,7 +8,7 @@ edit knexfile.js for yours credentials
 
 node tmp.js for console.log data
 
-
+node index.js for try to insert data in to MySQL
 
 ./node_modules/.bin/knex migrate:rollback for drop tables
 
