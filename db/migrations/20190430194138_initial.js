@@ -20,8 +20,8 @@ exports.up = function(knex, Promise) {
       table.string("name");
       table.string("debt");
       table.decimal("decimal_debt", 14, 2);
-      // table.integer("client_id").unsigned();
-      // table.foreign("client_id").references("clients.id");
+      table.integer("client_id").unsigned();
+      table.foreign("client_id").references("clients.id");
     })
   ]);
 };
